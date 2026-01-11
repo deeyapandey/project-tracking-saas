@@ -1,0 +1,17 @@
+D:\SaaS-Project\project-tracking-saas\backend\src\ProjectTracking.Infrastructure\bin\Debug\net10.0\ProjectTracking.Infrastructure.deps.json
+D:\SaaS-Project\project-tracking-saas\backend\src\ProjectTracking.Infrastructure\bin\Debug\net10.0\ProjectTracking.Infrastructure.dll
+D:\SaaS-Project\project-tracking-saas\backend\src\ProjectTracking.Infrastructure\bin\Debug\net10.0\ProjectTracking.Infrastructure.pdb
+D:\SaaS-Project\project-tracking-saas\backend\src\ProjectTracking.Infrastructure\bin\Debug\net10.0\ProjectTracking.Application.dll
+D:\SaaS-Project\project-tracking-saas\backend\src\ProjectTracking.Infrastructure\bin\Debug\net10.0\ProjectTracking.Domain.dll
+D:\SaaS-Project\project-tracking-saas\backend\src\ProjectTracking.Infrastructure\bin\Debug\net10.0\ProjectTracking.Application.pdb
+D:\SaaS-Project\project-tracking-saas\backend\src\ProjectTracking.Infrastructure\bin\Debug\net10.0\ProjectTracking.Domain.pdb
+D:\SaaS-Project\project-tracking-saas\backend\src\ProjectTracking.Infrastructure\obj\Debug\net10.0\ProjectTracking.Infrastructure.csproj.AssemblyReference.cache
+D:\SaaS-Project\project-tracking-saas\backend\src\ProjectTracking.Infrastructure\obj\Debug\net10.0\ProjectTracking.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\SaaS-Project\project-tracking-saas\backend\src\ProjectTracking.Infrastructure\obj\Debug\net10.0\ProjectTracking.Infrastructure.AssemblyInfoInputs.cache
+D:\SaaS-Project\project-tracking-saas\backend\src\ProjectTracking.Infrastructure\obj\Debug\net10.0\ProjectTracking.Infrastructure.AssemblyInfo.cs
+D:\SaaS-Project\project-tracking-saas\backend\src\ProjectTracking.Infrastructure\obj\Debug\net10.0\ProjectTracking.Infrastructure.csproj.CoreCompileInputs.cache
+D:\SaaS-Project\project-tracking-saas\backend\src\ProjectTracking.Infrastructure\obj\Debug\net10.0\ProjectT.7C3304E4.Up2Date
+D:\SaaS-Project\project-tracking-saas\backend\src\ProjectTracking.Infrastructure\obj\Debug\net10.0\ProjectTracking.Infrastructure.dll
+D:\SaaS-Project\project-tracking-saas\backend\src\ProjectTracking.Infrastructure\obj\Debug\net10.0\refint\ProjectTracking.Infrastructure.dll
+D:\SaaS-Project\project-tracking-saas\backend\src\ProjectTracking.Infrastructure\obj\Debug\net10.0\ProjectTracking.Infrastructure.pdb
+D:\SaaS-Project\project-tracking-saas\backend\src\ProjectTracking.Infrastructure\obj\Debug\net10.0\ref\ProjectTracking.Infrastructure.dll

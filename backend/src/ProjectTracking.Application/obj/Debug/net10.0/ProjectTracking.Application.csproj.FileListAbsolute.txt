@@ -1,0 +1,15 @@
+D:\SaaS-Project\project-tracking-saas\backend\src\ProjectTracking.Application\bin\Debug\net10.0\ProjectTracking.Application.deps.json
+D:\SaaS-Project\project-tracking-saas\backend\src\ProjectTracking.Application\bin\Debug\net10.0\ProjectTracking.Application.dll
+D:\SaaS-Project\project-tracking-saas\backend\src\ProjectTracking.Application\bin\Debug\net10.0\ProjectTracking.Application.pdb
+D:\SaaS-Project\project-tracking-saas\backend\src\ProjectTracking.Application\bin\Debug\net10.0\ProjectTracking.Domain.dll
+D:\SaaS-Project\project-tracking-saas\backend\src\ProjectTracking.Application\bin\Debug\net10.0\ProjectTracking.Domain.pdb
+D:\SaaS-Project\project-tracking-saas\backend\src\ProjectTracking.Application\obj\Debug\net10.0\ProjectTracking.Application.csproj.AssemblyReference.cache
+D:\SaaS-Project\project-tracking-saas\backend\src\ProjectTracking.Application\obj\Debug\net10.0\ProjectTracking.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\SaaS-Project\project-tracking-saas\backend\src\ProjectTracking.Application\obj\Debug\net10.0\ProjectTracking.Application.AssemblyInfoInputs.cache
+D:\SaaS-Project\project-tracking-saas\backend\src\ProjectTracking.Application\obj\Debug\net10.0\ProjectTracking.Application.AssemblyInfo.cs
+D:\SaaS-Project\project-tracking-saas\backend\src\ProjectTracking.Application\obj\Debug\net10.0\ProjectTracking.Application.csproj.CoreCompileInputs.cache
+D:\SaaS-Project\project-tracking-saas\backend\src\ProjectTracking.Application\obj\Debug\net10.0\ProjectT.755F0F24.Up2Date
+D:\SaaS-Project\project-tracking-saas\backend\src\ProjectTracking.Application\obj\Debug\net10.0\ProjectTracking.Application.dll
+D:\SaaS-Project\project-tracking-saas\backend\src\ProjectTracking.Application\obj\Debug\net10.0\refint\ProjectTracking.Application.dll
+D:\SaaS-Project\project-tracking-saas\backend\src\ProjectTracking.Application\obj\Debug\net10.0\ProjectTracking.Application.pdb
+D:\SaaS-Project\project-tracking-saas\backend\src\ProjectTracking.Application\obj\Debug\net10.0\ref\ProjectTracking.Application.dll

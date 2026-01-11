@@ -1,0 +1,11 @@
+D:\SaaS-Project\project-tracking-saas\backend\src\ProjectTracking.Domain\bin\Debug\net10.0\ProjectTracking.Domain.deps.json
+D:\SaaS-Project\project-tracking-saas\backend\src\ProjectTracking.Domain\bin\Debug\net10.0\ProjectTracking.Domain.dll
+D:\SaaS-Project\project-tracking-saas\backend\src\ProjectTracking.Domain\bin\Debug\net10.0\ProjectTracking.Domain.pdb
+D:\SaaS-Project\project-tracking-saas\backend\src\ProjectTracking.Domain\obj\Debug\net10.0\ProjectTracking.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\SaaS-Project\project-tracking-saas\backend\src\ProjectTracking.Domain\obj\Debug\net10.0\ProjectTracking.Domain.AssemblyInfoInputs.cache
+D:\SaaS-Project\project-tracking-saas\backend\src\ProjectTracking.Domain\obj\Debug\net10.0\ProjectTracking.Domain.AssemblyInfo.cs
+D:\SaaS-Project\project-tracking-saas\backend\src\ProjectTracking.Domain\obj\Debug\net10.0\ProjectTracking.Domain.csproj.CoreCompileInputs.cache
+D:\SaaS-Project\project-tracking-saas\backend\src\ProjectTracking.Domain\obj\Debug\net10.0\ProjectTracking.Domain.dll
+D:\SaaS-Project\project-tracking-saas\backend\src\ProjectTracking.Domain\obj\Debug\net10.0\refint\ProjectTracking.Domain.dll
+D:\SaaS-Project\project-tracking-saas\backend\src\ProjectTracking.Domain\obj\Debug\net10.0\ProjectTracking.Domain.pdb
+D:\SaaS-Project\project-tracking-saas\backend\src\ProjectTracking.Domain\obj\Debug\net10.0\ref\ProjectTracking.Domain.dll
